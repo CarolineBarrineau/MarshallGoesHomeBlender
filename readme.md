@@ -1,4 +1,4 @@
-# These are my blender models and desings for Marvelous Adventures of Marshall
+# Blender 3D Models and Desings for Marvelous Adventures of Marshall
 #### Raccoon 3D model has walking and "idle" animation, bones, material color, and .fbx file as a game object
 #### Turtle has just the 3D model
 # How to Use
